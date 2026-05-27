@@ -1,0 +1,57 @@
+{
+    "name": "BerbrickDev Mecánico NPC",
+    "author": "BerbrickDev",
+    "version": "2.0.0",
+    "release_date": "2026-05-27",
+    "description": "Sistema profesional de mecánico móvil NPC para servidores ESX",
+    "repository": "https://github.com/BerbrickDev/mecanico-npc",
+    "download": "https://github.com/BerbrickDev/mecanico-npc/releases/latest",
+    "support": {
+        "github": "https://github.com/BerbrickDev/mecanico-npc/issues",
+        "discord": "BerbrickDev#0000",
+        "email": "berbrickdev@gmail.com"
+    },
+    "requirements": {
+        "fivem": "2802+",
+        "esx": "Legacy or 1.2+",
+        "lua": "5.4"
+    },
+    "features": [
+        "Comando /mecanico funcional",
+        "NPC mecánico con IA",
+        "Animaciones realistas",
+        "Sistema multiidioma (5 idiomas)",
+        "Configuración avanzada",
+        "Protección anti-exploit",
+        "Discord Webhooks",
+        "Optimizado (0.00ms idle)"
+    ],
+    "languages": [
+        "es",
+        "en",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "license": "Custom - Free for personal and commercial use",
+    "changelog": {
+        "2.0.0": {
+            "date": "2026-05-27",
+            "changes": [
+                "Reescritura completa del código",
+                "Sistema multiidioma",
+                "Configuración avanzada",
+                "Mejoras de seguridad",
+                "Sistema de logs con Discord",
+                "Optimización de rendimiento",
+                "Documentación completa"
+            ]
+        },
+        "1.0.0": {
+            "date": "2026-05-20",
+            "changes": [
+                "Lanzamiento inicial"
+            ]
+        }
+    }
+}
